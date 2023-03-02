@@ -1,4 +1,4 @@
 import pywhatkit
 
 
-pywhatkit.sendwhatmsg("+919xxxxxxxxx","Geeks For Geeks!",18, 30)
+pywhatkit.sendwhatmsg("+919xxxxxxxxx","Hello!",18, 30)
